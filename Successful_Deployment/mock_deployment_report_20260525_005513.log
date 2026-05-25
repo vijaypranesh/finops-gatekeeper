@@ -1,0 +1,7 @@
+=== MOCK DEPLOYMENT REPORT ===
+Timestamp: 2026-05-25 00:55:13
+Status: SUCCESS
+Total budget allowed: $500.0
+Estimated cost: $8.0
+
+Terraform Apply Successful: Resources provisioned.

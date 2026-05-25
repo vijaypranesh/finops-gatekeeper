@@ -1,0 +1,14 @@
+{
+  "resources": [
+    {
+      "name": "aws_instance.web_server",
+      "type": "aws_instance",
+      "monthly_cost": 320.50
+    },
+    {
+      "name": "aws_db_instance.postgres",
+      "type": "aws_db_instance",
+      "monthly_cost": 210.00
+    }
+  ]
+}
